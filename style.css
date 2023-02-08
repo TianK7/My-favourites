@@ -1,0 +1,42 @@
+html {
+  background-color: darksalmon;
+}
+
+body {
+  background-color: palegoldenrod;
+  border-radius: 20px;
+  width: 1300px;
+  margin: 100px;
+  padding: 35px 200px 100px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  letter-spacing: 0.8px;
+}
+h1,
+h2 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.center {
+  text-align: center;
+}
+h2 {
+  margin-top: 175px;
+
+  width: 500px;
+}
+a:hover {
+  font-weight: bold;
+}
+a {
+  color: blueviolet;
+}
+.maroon {
+  color: maroon;
+}
+
+.blue {
+  color: powderblue;
+}
+
+img {
+  border-radius: 15px;
+}
